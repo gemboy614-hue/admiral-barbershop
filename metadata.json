@@ -1,0 +1,6 @@
+{
+  "name": "Адмирал Барбершоп",
+  "description": "Элитный мужской барбершоп во Владивостоке. Создаем стиль, дарим эмоции.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
