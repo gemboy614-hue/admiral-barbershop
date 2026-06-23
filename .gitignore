@@ -1,0 +1,13 @@
+﻿node_modules/
+docs/
+src/
+public/
+.claude/
+.wrangler/
+.env*
+!.env.example
+package*.json
+tsconfig.json
+vite.config.ts
+metadata.json
+README.md
